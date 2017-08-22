@@ -1,3 +1,8 @@
+# start!
+npm install
+npm start
+
+
 # original node version: 4.0.0, npm: 2.14.2
 
 $ nvm use 8.0.0
